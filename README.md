@@ -57,11 +57,13 @@ cmp file1 file2
 
 comm file1 file2
  ## OUTPUT
+<img width="419" height="367" alt="image" src="https://github.com/user-attachments/assets/a59a1057-31cc-4d09-96db-c248fbcfad0e" />
 
  
 diff file1 file2
 ## OUTPUT
 
+<img width="438" height="302" alt="image" src="https://github.com/user-attachments/assets/4288515f-3549-4536-9368-1faa2beecfe4" />
 
 #Filters
 
@@ -85,6 +87,7 @@ cat > file22
 cut -c1-3 file11
 ## OUTPUT
 
+<img width="336" height="104" alt="image" src="https://github.com/user-attachments/assets/9410272f-2163-4914-af7a-50e9c3b7a3ca" />
 
 
 
