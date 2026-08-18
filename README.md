@@ -53,7 +53,8 @@ cat < file2
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+ <img width="382" height="82" alt="image" src="https://github.com/user-attachments/assets/8c464b77-0119-4bb4-9f10-23b765cb1924" />
+
 comm file1 file2
  ## OUTPUT
 
